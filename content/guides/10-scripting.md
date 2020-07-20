@@ -361,7 +361,7 @@ tag app-root
 # Comments
 ## Single line comments
 There are two ways to do single line comments in imba
-```Imba
+```imba
 // Javascript style
 
 # Imba style
